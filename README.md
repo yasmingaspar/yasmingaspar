@@ -1,4 +1,4 @@
-#⚡ Yasmin Gaspar
+# ✨ Yasmin Gaspar
 
 **`Desenvolvedora FullStack`**
 
