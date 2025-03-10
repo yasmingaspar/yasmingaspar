@@ -84,12 +84,15 @@ Olá, meu nome é Yasmin Gaspar, tenho 20 anos e sou natural do Rio de Janeiro. 
     />
   <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Spring" 
+    title="Spring"
     width="40px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
     />
+
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
